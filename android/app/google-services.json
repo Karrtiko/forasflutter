@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "96570899402",
+    "firebase_url": "https://foras-d8f7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foras-d8f7b",
+    "storage_bucket": "foras-d8f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96570899402:android:9d8825bd06ae17097cad33",
+        "android_client_info": {
+          "package_name": "com.example.forasflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVeKzLwrEfApXV5XOdY456A-w2FLwtKto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96570899402:android:580daef426d019987cad33",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVeKzLwrEfApXV5XOdY456A-w2FLwtKto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
